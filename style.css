@@ -1,0 +1,26 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background:rgb(0, 152, 253)
+}
+header{
+  margin-top: 20%;
+  margin-bottom: 20px;
+  font-size: 20pt;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: aliceblue;
+}
+
+#flista{
+  width: 150px;
+}
+
+section{
+ background: white;
+ border-radius: 10px;
+ padding: 10px;
+ font-family: Arial, Helvetica, sans-serif;  
+
+}
