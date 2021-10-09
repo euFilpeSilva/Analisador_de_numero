@@ -15,5 +15,7 @@ após inserir todos os valores aperte no botão :(finalizar);
   * soma de todos os valores
   * média de todos os valores
   <br>
-## Demonstração:
+  
+  ## Demonstração:
+
 <img src = "image\registro Animation.gif">
